@@ -3,8 +3,8 @@ The Library Management System is an application forassisting a librarian in mana
 
 Further explanations and assumptions:
 
-1.member can be borrowed the books
-2.increment and decrement the stock
+1.member can be borrowed the books.
+2.increment and decrement the stock.
 
 ### Prerequisites
 
