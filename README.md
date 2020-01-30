@@ -1,10 +1,10 @@
-# Library-Management-System
-The Library Management System is an application forassisting a librarian in managing a book library in auniversity. The system would provide basic set of features to add/update ,
+# Library Management System
+An application for assisting a librarian in managing booksin a library.
 
 Further explanations and assumptions:
 
-1.member can be borrowed the books.
-2.increment and decrement the stock.
+1. Members can be borrow the books.
+2. Auto increment and decrement of the stock.
 
 ### Prerequisites
 
