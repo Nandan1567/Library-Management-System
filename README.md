@@ -1,5 +1,5 @@
 # Library Management System
-An application for assisting a librarian in managing booksin a library.
+An application for assisting a librarian in managing books in a library.
 
 Further explanations and assumptions:
 
